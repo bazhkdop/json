@@ -1,10 +1,10 @@
 {
-   "skill": "Gitbash",
-   "skill": "Github",
-   "skill": "Postman",
-   "skill": "Jmeter",
-   "skill": "CheckLists",
-   "skill": "SQL",
-   "skill": "Charles",
-   "skill": "Mobile testing",
+   "skill1": "Gitbash",
+   "skill2": "Github",
+   "skill3": "Postman",
+   "skill4": "Jmeter",
+   "skill5": "CheckLists",
+   "skill6": "SQL",
+   "skill7": "Charles",
+   "skill8": "Mobile testing",
 }
