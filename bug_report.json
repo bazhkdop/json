@@ -1,5 +1,5 @@
 { 
-  Bug report
+  "Bug report"
   "Summery": "number one in github file editer can't be removed",
   "Steps to reproduced": "1. login in github 2. create new file 3. open file 4. click edit file icon 5. try to remove number one",
   "Actual Result": "number one doesn't removed",
